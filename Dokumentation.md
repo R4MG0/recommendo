@@ -33,7 +33,7 @@
 
 
 
-# Realisierungsbericht
+# Realisierungskonzept
 
 ## Allgemein
 Wir wollen die Updates eher defensiv angehen und die Programmiersprachen ca. Vier Monate im Nachhinein Updaten.
@@ -49,6 +49,7 @@ Die User-Stories werden in einem von Alwin Jakob gehosteten Tool festgehalten un
 ### Technologie
 * Angular (HTML, Typescript, SCSS)
 * Angular material
+* EsLint (Coderichtlinien)
 
 </br>
 
@@ -56,6 +57,7 @@ Die User-Stories werden in einem von Alwin Jakob gehosteten Tool festgehalten un
 ### Technologie
 * Java Springboot
 * Postgres Datenbank
+* Sonarqube (Coderichtlinien)
 
 
 
