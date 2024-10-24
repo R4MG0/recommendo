@@ -37,7 +37,12 @@
 
 ## Allgemein
 Wir wollen die Updates eher defensiv angehen und die Programmiersprachen ca. Vier Monate im Nachhinein Updaten.
-Der Code wird mit hilfe von GIT verwaltet. Die Entwickler werden hauptsächlich auf Visual Studio Code und IntelliJ programmieren.
+</br>
+Der Code wird mit hilfe von GIT verwaltet. 
+</br>
+Die Entwickler werden hauptsächlich auf Visual Studio Code und IntelliJ programmieren.
+</br>
+Die User-Stories werden in einem von Alwin Jakob gehosteten Tool festgehalten und gemanaged.
 </br>
 
 ## Frontend
