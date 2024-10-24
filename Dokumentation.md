@@ -37,7 +37,7 @@
 
 ## Allgemein
 Wir wollen die Updates eher defensiv angehen und die Programmiersprachen ca. Vier Monate im Nachhinein Updaten.
-Der Code wird mit hilfe von GIT verwaltet. Die Entwickler werden hauptsächlich auf Visual Studio Code und IntelliJ programmieren.
+Der Code wird mit hilfe von GIT verwaltet. Die Entwickler werden hauptsächlich auf Visual Studio Code und IntelliJ / Webstorm programmieren.
 </br>
 
 ## Frontend
@@ -51,6 +51,7 @@ Der Code wird mit hilfe von GIT verwaltet. Die Entwickler werden hauptsächlich 
 ### Technologie
 * Java Springboot
 * Postgres Datenbank
+* Docker
 
 
 
